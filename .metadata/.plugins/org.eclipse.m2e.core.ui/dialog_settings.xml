@@ -74,4 +74,20 @@
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\Mutualfundsinvestmentplatform-main\fundinsight-backend"/>
+			<item value="C:\Users\srika\Downloads\Telegram Desktop\Student_Portal_Backend"/>
+			<item value="C:\Users\srika\OneDrive\Desktop\projects\skill4"/>
+			<item value="C:\Users\srika\OneDrive\Desktop\projects\Skill7"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 </section>
